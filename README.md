@@ -35,6 +35,7 @@ If you already have GET and ETH in roughly equal amounts, you can supply these u
 * Keep an eye on the Ethereum [gas price](https://www.gasnow.org/) and only transact when it is low. Low these days is 80-100. Find a good point and set your gas price to the fast (or standard) value on this site.
 * Transact with larger amounts less frequently.
 * If buying in anew, buy ETH from an exchange and send that to your wallet. You can then buy in directly with Zerion with minimum hops needed. 
+* You can stack your GET rewards back into the pool for a compounding effect. Much like when you buy in with ETH in the example above, this would sell half your GET rewards for ETH to maintain an equal GET:ETH ratio, then place both those assets back into the pool. 
 
 ## No catch?
 No, but a couple of things to be aware of:
